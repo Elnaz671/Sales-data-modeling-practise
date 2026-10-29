@@ -1,0 +1,11 @@
+CustomerID,CustomerName,City,Region,CustomerSegement
+201,Customer A,Mashhad,East,premium 
+202,Customer B,Tehran,Central,Standard
+203,Customer C,Isfahan,Central,Standard    
+204,Customer D,Shiraz,South,Basic
+205,Customer E,Tabriz,Northwest,Basic
+206,Customer F,Mashhad,East,premium
+207,Customer G,Tehran,Central,Standard
+208,Customer H,Ahvaz,South,Basic
+209,Customer I,Rasht,North,Basic
+210,Customer J,Kerman,Southeast,Basic

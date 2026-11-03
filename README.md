@@ -38,4 +38,8 @@ The project follows a star schema, with `Orders` as the fact table and `Customer
 Data validation checks include comparing calculated sales with recorded values, checking for duplicate orders, identifying invalid customer or product references, and reviewing negative quantities or prices.
 
 ## Project Status
+
+## Sales Performance Dashboard
+
+![Sales Performance Dashboard](Sales%20Performance%20Dashboard.png)
 The project is a practical learning project. The Power BI dashboard layout and documentation may be improved as the project develops.
